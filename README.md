@@ -47,10 +47,3 @@ java -cp src BibliotecaMunicipal
 +-- DOCUMENTACAO_TECNICA.md
 ```
 
-## Observação sobre GitHub
-
-Depois de criar o repositório público no GitHub, coloque o link aqui e também na documentação técnica:
-
-```text
-https://github.com/gluttm/sistema-biblioteca-municipal
-```
