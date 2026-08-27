@@ -163,7 +163,7 @@ O sistema possui verificações para evitar erros comuns, como:
 Colocar aqui o link público depois de criar o repositório:
 
 ```text
-https://github.com/seu-usuario/sistema-biblioteca-municipal
+https://github.com/gluttm/sistema-biblioteca-municipal
 ```
 
 ## Conclusão
