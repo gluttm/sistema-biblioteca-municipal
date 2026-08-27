@@ -160,7 +160,6 @@ O sistema possui verificações para evitar erros comuns, como:
 
 ## Link do repositório GitHub
 
-Colocar aqui o link público depois de criar o repositório:
 
 ```text
 https://github.com/gluttm/sistema-biblioteca-municipal
