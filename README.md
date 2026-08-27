@@ -52,5 +52,5 @@ java -cp src BibliotecaMunicipal
 Depois de criar o repositório público no GitHub, coloque o link aqui e também na documentação técnica:
 
 ```text
-https://github.com/seu-usuario/sistema-biblioteca-municipal
+https://github.com/gluttm/sistema-biblioteca-municipal
 ```
